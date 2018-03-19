@@ -7,3 +7,7 @@
  c=a+b;
  print ("c",%d);
  return 0;
+
+
+ phthon
+
